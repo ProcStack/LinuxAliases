@@ -5,6 +5,11 @@
 
 ### backupWork Info ###
 # Reads *localPath*/work.txt for list of files to backup
+# Example work.txt ->
+# index.htm
+# interface.js
+# math.js
+
 # Requires folder - backups
 # Copies file to - backups/*fileName*.ext.bk#
 
